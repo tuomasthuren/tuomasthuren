@@ -22,6 +22,12 @@ A project focused on tracking workouts and making fitness progress easier to man
 - Tech: TypeScript
 - Repo: https://github.com/tuomasthuren/workout-tracker
 
+### 📊 Statistical Data Analysis — School Group Project
+Collaborated on a Jupyter Notebook project analyzing activity data. My contributions included preparing the activity-time data by standardizing time formats and converting values to numeric types, adding Spearman correlation and scatter-matrix visualizations, completing paired tests comparing day types and summarizing the results, and improving p-value formatting.
+
+- Tech: Python, Jupyter Notebook, pandas, statistical analysis, data visualization
+- [View the project repository](https://github.com/gategitkon/Project_060) (owned by a group member; currently private)
+
 ### 🧮 Fuel Expenses Calculator
 A small utility project for calculating fuel-related expenses and tracking costs.
 
@@ -32,6 +38,9 @@ A small utility project for calculating fuel-related expenses and tracking costs
 
 - JavaScript
 - TypeScript
+- Python and Jupyter Notebook
+- Data cleaning and statistical analysis
+- Data visualization
 - React / front-end development
 - Mobile app development
 - Problem solving and product-focused iteration
