@@ -10,11 +10,11 @@ I build practical software products and learning projects focused on real-world 
 
 ## Featured projects
 
-### ⚡ Electricity Price Tracker Mobile
-A mobile app for tracking electricity prices in real time and helping users understand consumption patterns.
+### ⚡ Electricity Price Tracker — School Group Project
+A collaborative Express.js web app that tracks current electricity prices. I contributed to the EJS interface for displaying current and next-hour prices, and built and refined the project's About page and footer.
 
-- Tech: JavaScript, mobile app development
-- Repo: https://github.com/tuomasthuren/electricity-price-tracker-mobile
+- Tech: JavaScript, Express.js, EJS, CSS
+- [View the project repository](https://github.com/aarotukia/Electricity-price-tracker) (group project)
 
 ### 🏋️ Workout Tracker
 A project focused on tracking workouts and making fitness progress easier to manage.
@@ -42,6 +42,7 @@ A small utility project for calculating fuel-related expenses and tracking costs
 - Data cleaning and statistical analysis
 - Data visualization
 - React / front-end development
+- Express.js and EJS
 - Mobile app development
 - Problem solving and product-focused iteration
 
