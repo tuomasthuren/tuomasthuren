@@ -1,26 +1,34 @@
 # Hi, I'm Tuomas 👋
 
-I build practical software products and learning projects focused on real-world problems, clean UX, and meaningful functionality.
+I'm Master's student in Information Technology at the University of Turku, with a background in Business Information Technology at the Turku University of applied sciences. I'm interested in data analytics, software development, and building practical solutions that combine technology with real-world business needs.
 
 ## About me
 
-- Full-stack / app developer with a focus on practical, user-friendly solutions
-- Interested in product thinking, automation, and building tools that help people daily
-- Always learning and shipping experiments, side projects, and useful utilities
+🎓 B.Sc. in Business Information Technology from Turku University of Applied Sciences
+
+🎓 Currently pursuing a Master's degree in Information Technology at the University of Turku, specializing in Data Analytics
+
+📊 Interested in data analytics, business intelligence, data science, machine learning and software engineering
+
+💻 Enjoy developing software, working with data, and creating practical applications
+
+🚀 Motivated by solving real-world problems through technology, analytical thinking, and continuous learning
 
 ## Featured projects
+
+### 🚤 Maritime Rescue Simulator — Development Project
+
+Further development of a maritime rescue training simulator, focusing on real-time data visualization and hardware integration. The project involved building a data pipeline connecting Signal K, InfluxDB, and Grafana, as well as integrating a custom joystick controller.
+
+Tech: Python, Signal K, InfluxDB, Grafana, Raspberry Pi, Arduino, NMEA 0183
+
+Focus: Real-time data, IoT, data visualization, hardware integration
 
 ### ⚡ Electricity Price Tracker — School Group Project
 A collaborative Express.js web app that tracks current electricity prices. I contributed to the EJS interface for displaying current and next-hour prices, and built and refined the project's About page and footer.
 
 - Tech: JavaScript, Express.js, EJS, CSS
 - [View the project repository](https://github.com/aarotukia/Electricity-price-tracker) (group project)
-
-### 🏋️ Workout Tracker
-A project focused on tracking workouts and making fitness progress easier to manage.
-
-- Tech: TypeScript
-- Repo: https://github.com/tuomasthuren/workout-tracker
 
 ### 📊 Statistical Data Analysis — School Group Project
 Collaborated on a Jupyter Notebook project analyzing activity data. My contributions included preparing the activity-time data by standardizing time formats and converting values to numeric types, adding Spearman correlation and scatter-matrix visualizations, completing paired tests comparing day types and summarizing the results, and improving p-value formatting.
@@ -36,19 +44,47 @@ A small utility project for calculating fuel-related expenses and tracking costs
 
 ## Skills
 
-- JavaScript
-- TypeScript
-- Python and Jupyter Notebook
-- Data cleaning and statistical analysis
-- Data visualization
-- React / front-end development
-- Express.js and EJS
-- Mobile app development
-- Problem solving and product-focused iteration
+Programming & Development
+
+Python
+
+JavaScript / TypeScript
+
+SQL
+
+React, Express.js, EJS
+
+HTML & CSS
+
+Data & Analytics
+
+Data cleaning and preprocessing
+
+Statistical analysis
+
+Data visualization
+
+Power BI, DAX & Power Query
+
+pandas & Jupyter Notebook
+
+Machine learning fundamentals
+
+Tools & Technologies
+
+Git & GitHub
+
+Grafana & InfluxDB
+
+Signal K
+
+Docker
+
+Arduino & Raspberry Pi
 
 ## Current focus
 
-Building useful apps, improving product quality, and turning ideas into working software that people can actually use.
+Currently developing my skills in data analytics, data engineering, and software development through my Master's studies and personal projects.
 
 ## Contact
 
